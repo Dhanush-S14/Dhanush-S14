@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 I'm a Student @VIT_Vellore
-- 📫 Reach me at [mail](mailto:dhanushsun10@gmail.com) (dhanushsun10@gmail.com)
+- 📫 Reach me at [mail](mailto:dhanushsun10@gmail.com) dhanushsun10@gmail.com
 
 ## My Skills
  🐍 *Python
